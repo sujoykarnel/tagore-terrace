@@ -24,6 +24,16 @@ header{
 #user-account{
     margin: auto;
     text-align: left;
+    color: white;
+}
+.login-button{
+    text-decoration: none;
+    background-color: violet;
+    color: white;
+    border-radius: 20px;
+    padding: 2px 20px;
+    width: 200px;
+    font-weight: 500;
 }
 section{
     margin-bottom: 50px;
