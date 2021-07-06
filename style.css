@@ -23,7 +23,7 @@ body{
     color: blue;
 }
 .section-data{
-    margin-top: 100px;
+    display: ;
 }
 h1{
     color: green;
@@ -39,4 +39,19 @@ h2{
     border-radius: 20px;
     padding: 5px 10px;
     font-weight: 700;
+}
+#about-section{
+    background-image: url(images/about-background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    text-align: justify;
+}
+.item-image{
+    height: auto;
+    width: 300px;
+}
+.item-div{
+    width: 30%;
 }
