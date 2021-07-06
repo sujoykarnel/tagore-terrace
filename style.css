@@ -3,19 +3,37 @@ body{
 }
 .flexible-container{
     display: flex;
+
+}
+#profile-section{
     background-image: url(images/familfy.png);
     background-repeat: no-repeat;
     background-position: left;
-
 }
 .half-width{
-    width: 50%;
-    
-
+    width: 46%;
+    margin: 0 2%;
 }
 .half-width img{
     width: 100%;
+    
 }
+
 .blue-color{
     color: blue;
+}
+#profile-data{
+    margin-top: 100px;
+}
+h1{
+    color: brown;
+    font-size: 50px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, brown);
+    color: white;
+    border-radius: 20px;
+    padding: 5px 10px;
+    font-weight: 700;
 }
