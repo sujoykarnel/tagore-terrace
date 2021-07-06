@@ -1,3 +1,21 @@
 body{
+    font-family: 'Poppins', sans-serif;
+}
+.flexible-container{
+    display: flex;
+    background-image: url(images/familfy.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+.half-width{
+    width: 50%;
     
+
+}
+.half-width img{
+    width: 100%;
+}
+.blue-color{
+    color: blue;
 }
